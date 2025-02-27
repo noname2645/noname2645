@@ -5,26 +5,23 @@ So, you've stumbled upon my GitHub profile! Welcome! I'm a web developer who's r
 
 ## What I'm Good At (My Toolbox) 🛠️
 
-* **Languages:** JavaScript, Python, HTML, CSS, and whatever else gets the job done.
-* **Frameworks/Libraries:** React and Node.js. I'm always exploring new ones, though!
-* **Databases:** I've worked with MySQL as of now.
-* **Tools:** Git.
+* **Languages:** JavaScript, Python, HTML, CSS
+* **Frameworks/Libraries:** React, Node.js, [Add other libraries]
+* **Databases:** MySQL
+* **Tools:** Git
 
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
-[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
-[![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 <i class="devicon-html5-plain-wordmark colored" style="font-size: 40px;"></i>
 <i class="devicon-css3-plain-wordmark colored" style="font-size: 40px;"></i>
 <i class="devicon-python-plain-wordmark colored" style="font-size: 40px;"></i>
+<i class="devicon-javascript-plain colored" style="font-size: 40px;"></i>
+<i class="devicon-react-original colored" style="font-size: 40px;"></i>
+<i class="devicon-nodejs-plain colored" style="font-size: 40px;"></i>
 
 ## Some Things I've Built (My Projects) 🚀
 
-* **[Scientific Calculator]:** A scientific calculator which can do arithmetic, trigonometric and binary conversions. I built it with my team for my semester mini project. Check it out on (https://github.com/noname2645/Scientific-Calculator-webapp.git).
-* **[Home Energy Monitor Webapp]:** A basic simulation project built with my team. Check it out on :(https://github.com/noname2645/Home-Energy-Monitor-Webapp.git).
-* **[Voting using blockchain]:** This was a fun project where I experimented with Solidity and ethereum for the first time. Check it out on: (https://github.com/noname2645/Blockchain-Voting.git).
+* **Scientific Calculator:** A team project designed to provide a comprehensive calculator with arithmetic, trigonometric, and binary conversion functionality. Built using [HTML, CSS, JavaScript]. [Check it out](https://github.com/noname2645/Scientific-Calculator-webapp.git).
+* **Home Energy Monitor Webapp:** A simulation project that visualizes home energy consumption. Developed using [mention technologies used]. [Check it out](https://github.com/noname2645/Home-Energy-Monitor-Webapp.git).
+* **Voting using blockchain:** An experimental project exploring blockchain technology for secure voting systems. Implemented using Solidity and Ethereum. [Check it out](https://github.com/noname2645/Blockchain-Voting.git).
 
 ## Let's Connect! 🤝
 
