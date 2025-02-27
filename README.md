@@ -69,6 +69,7 @@ I'm always open to chatting about code, tech, or anything interesting!
 <a href="https://mytechfolio.netlify.app/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="40px" alt="Portfolio"/>
 </a>  
+
 <a href="https://www.linkedin.com/in/rohit-karmokar-654788257" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" alt="LinkedIn"/>
 </a>  
