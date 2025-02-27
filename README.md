@@ -57,8 +57,8 @@ I love turning ideas into reality and am always learning new things.
 ---
 
 ## 🔥 Currently Working On  
-🎯 **Blockchain-based Anime Website**  
-🚀 A decentralized platform for **anime search & information**.  
+🎯 **Blockchain-based Cloud Storage**  
+🚀 A decentralized platform for storing files on blockchain.  
 💡 Using **React, Solidity, IPFS, and Ethereum** to build a secure anime database.  
 
 ---
