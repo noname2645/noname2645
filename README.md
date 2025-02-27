@@ -1,6 +1,4 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
-# Hey there! I'm Rohit 👋
+# Hey there! I'm Rohit 👋  
 
 You've stumbled upon my GitHub profile! Welcome! 🚀  
 I'm a **web developer** passionate about building **efficient, functional, and user-friendly** websites.  
@@ -9,30 +7,29 @@ I love turning ideas into reality and am always learning new things.
 ---
 
 ## 🛠️ Tech Stack (My Toolbox)  
-Here are some of the technologies I work with:  
 
 ### **Languages**  
-<i class="devicon-html5-plain-wordmark colored" style="font-size: 40px;"></i>
-<i class="devicon-css3-plain-wordmark colored" style="font-size: 40px;"></i>
-<i class="devicon-javascript-plain colored" style="font-size: 40px;"></i>
-<i class="devicon-python-plain-wordmark colored" style="font-size: 40px;"></i>
-<i class="devicon-solidity-plain colored" style="font-size: 40px;"></i>
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)  
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)  
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)  
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)  
+![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)  
 
 ### **Frontend & Backend**  
-<i class="devicon-react-original colored" style="font-size: 40px;"></i>
-<i class="devicon-nodejs-plain colored" style="font-size: 40px;"></i>
-<i class="devicon-express-original colored" style="font-size: 40px;"></i>
-<i class="devicon-vitejs-plain colored" style="font-size: 40px;"></i>
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)  
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)  
+![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)  
+![Vite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg)  
 
 ### **Databases & Blockchain**  
-<i class="devicon-mysql-plain-wordmark colored" style="font-size: 40px;"></i>
-<i class="devicon-ethereum-original colored" style="font-size: 40px;"></i>
-<i class="devicon-ganache-plain colored" style="font-size: 40px;"></i>
+![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)  
+![Ethereum](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg)  
+![Ganache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ganache/ganache-original.svg)  
 
 ### **Tools & Others**  
-<i class="devicon-git-plain colored" style="font-size: 40px;"></i>
-<i class="devicon-metamask-original colored" style="font-size: 40px;"></i>
-<i class="devicon-github-original colored" style="font-size: 40px;"></i>
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)  
+![MetaMask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/metamask/metamask-original.svg)  
+![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)  
 
 ---
 
