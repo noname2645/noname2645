@@ -27,6 +27,6 @@ So, you've stumbled upon my GitHub profile! Welcome! I'm a web developer who's r
 I'm always open to chatting about code, tech, or anything else that sparks your interest.
 
 * [LinkedIn](https://www.linkedin.com/in/rohit-karmokar-654788257)
-* [Portfolio](mytechfolio.netlify.app)
+* [Portfolio](https://mytechfolio.netlify.app/)
 
 Feel free to say hi!
