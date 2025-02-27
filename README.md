@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 # Hey there! I'm Rohit 👋
 
 So, you've stumbled upon my GitHub profile! Welcome! I'm a web developer who's really passionate about building websites which are efficient, functional and user friendly. I love turning ideas into reality, and I'm always learning new things.
@@ -15,6 +16,9 @@ So, you've stumbled upon my GitHub profile! Welcome! I'm a web developer who's r
 [![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+<i class="devicon-html5-plain-wordmark colored" style="font-size: 40px;"></i>
+<i class="devicon-css3-plain-wordmark colored" style="font-size: 40px;"></i>
+<i class="devicon-python-plain-wordmark colored" style="font-size: 40px;"></i>
 
 ## Some Things I've Built (My Projects) 🚀
 
