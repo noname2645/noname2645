@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there! I'm Rohit 👋
 
-<!--
-**noname2645/noname2645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+So, you've stumbled upon my GitHub profile! Welcome! I'm a web developer who's really passionate about building websites which are efficient, functional and user friendly. I love turning ideas into reality, and I'm always learning new things.
 
-Here are some ideas to get you started:
+## What I'm Good At (My Toolbox) 🛠️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** JavaScript, Python, HTML, CSS, and whatever else gets the job done.
+* **Frameworks/Libraries:** React and Node.js. I'm always exploring new ones, though!
+* **Databases:** I've worked with MySQL as of now.
+* **Tools:** Git.
+
+[![Skill Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Skill Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
+[![Skill Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/)
+
+## Some Things I've Built (My Projects) 🚀
+
+* **[Scientific Calculator]:** A scientific calculator which can do arithmetic, trigonometric and binary conversions. I built it with my team for my semester mini project. Check it out on (https://github.com/noname2645/Scientific-Calculator-webapp.git).
+* **[Home Energy Monitor Webapp]:** A basic simulation project built with my team. Check it out on :(https://github.com/noname2645/Home-Energy-Monitor-Webapp.git).
+* **[Voting using blockchain]:** This was a fun project where I experimented with Solidity and ethereum for the first time. Check it out on: (https://github.com/noname2645/Blockchain-Voting.git).
+
+## Let's Connect! 🤝
+
+I'm always open to chatting about code, tech, or anything else that sparks your interest.
+
+* [LinkedIn]((https://www.linkedin.com/in/rohit-karmokar-654788257))
+* [Portfolio](mytechfolio.netlify.app)
+
+Feel free to say hi!
