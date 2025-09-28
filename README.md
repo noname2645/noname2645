@@ -44,22 +44,17 @@ I love turning ideas into reality and am always learning new things.
 🔹 Built using **HTML, CSS, JavaScript**.  
 🔗 [**Check it out**](https://github.com/noname2645/Scientific-Calculator-webapp.git)  
 
-### **📌 Home Energy Monitor Webapp**  
-🔹 A **real-time energy monitoring** simulation that dynamically updates power usage.  
-🔹 Developed using **JavaScript, Chart.js, and CSS animations**.  
-🔗 [**Check it out**](https://github.com/noname2645/Home-Energy-Monitor-Webapp.git)  
-
 ### **📌 Blockchain Voting System**  
 🔹 An experimental project that explores blockchain technology for **secure voting systems**.  
 🔹 Implemented using **Solidity, Ethereum, and Web3.js**.  
 🔗 [**Check it out**](https://github.com/noname2645/Blockchain-Voting.git)  
 
----
 
 ## 🔥 Currently Working On  
-🎯 **Blockchain-based Cloud Storage**  
-🚀 A decentralized platform for storing files on blockchain.  
-💡 Using **React, Solidity, IPFS, and Ethereum** to build a secure and private cloud storage.  
+🔹 **Blockchain-based Cloud Storage**  
+🔹 A decentralized platform for storing files on blockchain. Used metamask for signing.
+🔹 Using **React, Solidity, IPFS, and Ethereum** to build a secure and private cloud storage.  
+🔗 [**Check it out**](https://github.com/noname2645/Decentralized-cloud-storage.git) 
 
 ---
 
